@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 2222d719607cfca4faa3831c0817a412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3068058860322891500
+    second: eastmost penninsula_0
+  - first:
+      213: -4711801767574275334
+    second: eastmost penninsula_1
+  - first:
+      213: -1394551748390257562
+    second: eastmost penninsula_2
+  - first:
+      213: 9156285485077093642
+    second: eastmost penninsula_3
+  - first:
+      213: -2489351666306636157
+    second: eastmost penninsula_4
+  - first:
+      213: 4895232404865584625
+    second: eastmost penninsula_5
+  - first:
+      213: 1067312498356960505
+    second: eastmost penninsula_6
+  - first:
+      213: -108065047958598849
+    second: eastmost penninsula_7
+  - first:
+      213: -3517882761762307695
+    second: eastmost penninsula_8
+  - first:
+      213: 7568055355530930420
+    second: eastmost penninsula_9
+  - first:
+      213: 7673514750456965818
+    second: eastmost penninsula_10
+  - first:
+      213: 8958022040206296227
+    second: eastmost penninsula_11
+  - first:
+      213: 2199390135116687616
+    second: eastmost penninsula_12
+  - first:
+      213: -1871607886488050539
+    second: eastmost penninsula_13
+  - first:
+      213: 2501506632544348833
+    second: eastmost penninsula_14
+  - first:
+      213: -7464402283765939777
+    second: eastmost penninsula_15
+  - first:
+      213: -5467477734907257453
+    second: eastmost penninsula_16
+  - first:
+      213: 6224565120313856048
+    second: eastmost penninsula_17
+  - first:
+      213: -8979065695627339216
+    second: eastmost penninsula_18
+  - first:
+      213: 7674545453470631828
+    second: eastmost penninsula_19
+  - first:
+      213: 2057302518465942896
+    second: eastmost penninsula_20
+  - first:
+      213: -1687430990209553522
+    second: eastmost penninsula_21
+  - first:
+      213: 8963520214839089928
+    second: eastmost penninsula_22
+  - first:
+      213: -1642039789205083759
+    second: eastmost penninsula_23
+  - first:
+      213: -6268294007690829307
+    second: eastmost penninsula_24
+  - first:
+      213: -2720559935045103907
+    second: eastmost penninsula_25
+  - first:
+      213: -4001207308841257755
+    second: eastmost penninsula_26
+  - first:
+      213: -3039352141837381095
+    second: eastmost penninsula_27
+  - first:
+      213: 3527967513135628541
+    second: eastmost penninsula_28
+  - first:
+      213: 8624746606678204416
+    second: eastmost penninsula_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eastmost penninsula_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d887acb2e9ccaff4780968e12a208f38
+      internalID: 3068058860322891500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f74d31def4a54992cc19460546d4f
+      internalID: -4711801767574275334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43728259d630a634d8d6d9263bbb585d
+      internalID: -1394551748390257562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4c86c9da31084ab118e3a2547f2b3
+      internalID: 9156285485077093642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87520dc4dc9601646a11fdc852015f6b
+      internalID: -2489351666306636157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfabbdf0a82a244ad6fb49e7c69b09
+      internalID: 4895232404865584625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f80f161ee525f499f0bc67d66a2abc
+      internalID: 1067312498356960505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16df2cceac9634489360366241fee8
+      internalID: -108065047958598849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6868ff790c4194ab18e8e2b540e1be
+      internalID: -3517882761762307695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399c3e17d5ce3646af96774a3c6797c
+      internalID: 7568055355530930420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dcbd3e386fc344ca1cefaf025df1a0
+      internalID: 7673514750456965818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bda249487717244a6ee11515befd1f
+      internalID: 8958022040206296227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d64a042bc07d840b7cb0dd6ca451da
+      internalID: 2199390135116687616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3334e7c72b0944091aa17c8a1975da
+      internalID: -1871607886488050539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b3574ba41c49448052a97c7ecca95
+      internalID: 2501506632544348833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c5a73061b7dc4f8b11048986cd82d
+      internalID: -7464402283765939777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 21
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453ddc05c538a84ca99e00312b2c3dd
+      internalID: -5467477734907257453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d868cae23e7e9d4c959866d9c70396f
+      internalID: 6224565120313856048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04fe425f442e3540a6beceb1542c2ef
+      internalID: -8979065695627339216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b819576d3bb9c48b172151331b2865
+      internalID: 7674545453470631828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622037540c255944b1f6d7807879eb7
+      internalID: 2057302518465942896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6d613fdfc18744b68ca7ed6d776bf
+      internalID: -1687430990209553522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815db4959af4c940aae8c8525054183
+      internalID: 8963520214839089928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78452b9a098cde84d97a8e50ae3b983b
+      internalID: -1642039789205083759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16566af718e46fd44807544291d9ffc5
+      internalID: -6268294007690829307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d590b3a2743ef848a12fa0bcf8bd0bb
+      internalID: -2720559935045103907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60253cb9fab6f745844398343c7f08b
+      internalID: -4001207308841257755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27174a8c1dd6c46ac863a352195bc1
+      internalID: -3039352141837381095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86093b1956d7f3c4aa9524a8c57df97a
+      internalID: 3527967513135628541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eastmost penninsula_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207e4eb04028a34f95b3eba66fe85c9
+      internalID: 8624746606678204416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

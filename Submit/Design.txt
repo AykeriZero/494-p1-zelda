@@ -1,0 +1,34 @@
+# Design
+
+To get to the custom level, hit the bottom left gargoyle with a weapon. (Or press 4).
+
+# What is the pitch for your custom level?
+
+Our custom level combines Link's new power to generate ice blocks with the danger of the enemies from the original dungeon. In order to progress, the player must solve simple puzzles to get around a new fire projectile enemy and break ice blocks while also pressured by free moving enemies. 
+
+# What is the pitch for your custom mechanic?
+
+The ice power gives Link the ability to generate ice blocks which he can also break with his sword. This forces the player to be more creative in approaching enemies. Rather than simply defeating all the enemies in a room, Link can use his new power to protect himself or wall enemies away to temporarily mitigate danger. We also added fire projectile enemies that cannot be passed without taking damage unless Link uses his new power to block their projectiles. 
+
+# How does your new mechanic / custom level change the way the game is played?
+
+The ice power gives the player the ability to slow down gameplay if they wish. If they wish, they can use the power minimally to only bypass the fire projectile enemies, or they might use the power to protect themselves if they are running low on health and need to approach an enemy-filled room more carefully. There are also puzzles in the map constructed with breakable ice blocks that force the player to think more carefully about their approach to the dungeon rather than the typical run in and stab.
+
+# What new interesting decisions does your new mechanic / custom level bring about?
+
+The player is given new capabilities to approach fighting enemies. They must use the ice blocks to block projectiles from fire enemies, but they must also be careful not to hit their blocks with their weapons to avoid breaking them. The ice power and the fire projectile enemies force the player to more carefully consider where they are stepping once they enter a room and also to pay more attention to their own weapons.
+
+# "How do you explain the new mechanic to the player (or make its utility obvious) while they are playing without using a bunch of clumsy text? (Assume that players will ignore any text that is more than a few words long
+
+Upon entering the custom level, the player is able to pick up a snowflake that shows up in their B item slot. If they test it, a block of ice appears in front of them that they can't walk through. The "tutorial stage" also has 2 fire enemies that are firing too fast to be able to dodge through their projectiles. The only way to pass them is to use their new power to place a block in front of the fire. Before they reach the door, a wall of ice blocks their path. The only way to pass the wall and get to the other rooms is to break at least one block with any weapon they are holding. In this way, we are able to make sure that the player knows how to both place ice blocks and destroy ice blocks before they are given anything more challenging.
+
+# What are the URLs to your online portfolios (where a web build may be played)?
+
+http://www-personal.umich.edu/~songya/
+http://www-personal.umich.edu/~lisalcao/
+
+
+Original Ice Cube Assets -- Lisa Cao
+
+Glass Shattering Sound: stephan schutze Attr-Noncommercial 3.0
+http://soundbible.com/1765-Glass-Break.html

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - enemy
+  - key
+  - lockedDoor
+  - heart
+  - pushable
+  - bomb
+  - wallmaster
+  - bow
+  - boomerang
+  - weapon
+  - snowflake
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wall
+  - Garnish
+  - Wall_decor
+  - Enemy
+  - Enemy_wall
+  - Enemy_bats
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: InvCollider
+    uniqueID: 2917439797
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3967686229
+    locked: 0
+  - name: Player
+    uniqueID: 1187112881
+    locked: 0
+  - name: Garnish
+    uniqueID: 3935733253
+    locked: 0
